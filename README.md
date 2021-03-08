@@ -1,11 +1,11 @@
 # cron-job
-Cron jobs practice in node.js
+Cron jobs en node.js.
 
 ### index.js
-This file will simply execute a cron job every minute with a console.log.
+Este archivo ejecutara un cron job con un console.log cada minuto.
 
 ### email.js
-This file will execute a cron job every Saturday midnight which will send an email.
+Este archivo ejecutara un cron job cada Sábado por la noche, enviando un mail.
 
 ### .env_example
-Environment variables example
+Ejemplo de variables de entorno.
